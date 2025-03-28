@@ -1,4 +1,4 @@
-##My name is DamonLee Matthews
+My name is DamonLee Matthews
 - 🔭 I’m currently working on an amazon storefront.
 - 🌱 I’m currently learning javascript.
 - 👯 I’m looking to collaborate on software development and hardware.
